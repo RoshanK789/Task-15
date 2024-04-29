@@ -1,0 +1,15 @@
+.width
+{
+    width: fit-content;
+    font-size: 30px;
+    background-color:rgb(147, 191, 252);
+    font-weight:bold;
+    margin-top:200px;
+}
+#text
+{
+    color:white
+}
+button{
+    float:right;
+}
