@@ -11,7 +11,7 @@ response.then((data)=>data.json())
     quote.innerHTML=`${ele.quote} `
     main.append(quote,btn);
 })
-.catch((error)=>error.alert("There is no"));
+.catch((error)=>alert("There is no api data"));
 
 //* Button for new quote
 btn.addEventListener("click",()=>
