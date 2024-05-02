@@ -1,7 +1,7 @@
 //* getting the tag 
-const main=document.getElementById("main");
-const btn=document.getElementById("btn");
-const quote=document.getElementById("quote");
+const main=document.querySelector(".main");
+const btn=document.querySelector(".btn");
+const quote=document.querySelector(".quote");
 
 //* api fetch:
 
